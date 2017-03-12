@@ -45,5 +45,12 @@ build
 # Zip files
 *.zip
 
+# Unreal files
+Binaries/
+Build/
+Intermediate/
+Saved/
+*.VC.db
+
 # Mac
 .DS_Store
